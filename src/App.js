@@ -1,8 +1,14 @@
+import TrueOrFalseForm from './components/TrueOrFalseForm'
+
 function App() {
   return (
-    <div>
-      <h1>Let's do this!</h1>
-    </div>
+    <>
+      <h1>Test A2</h1>
+      <section>
+        <h2>Comprensione Orale</h2>
+        <TrueOrFalseForm></TrueOrFalseForm>
+      </section>
+    </>
   )
 }
 
